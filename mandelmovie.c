@@ -1,12 +1,7 @@
 /*
  * mandelmovie.c
- * Name: <your name>
- * Assignment: Lab 11 - Multiprocessing
- * Section: <your section>
- *
- * Runs the provided mandel program 50 times, shrinking the scale each
- * frame to zoom into the Mandelbrot set. Up to num_procs children run
- * at the same time (set with -n).
+ * Logan Amar
+ * CPE 2600 Lab 11 - Multiprocessing
  */
 
 #include <stdio.h>
