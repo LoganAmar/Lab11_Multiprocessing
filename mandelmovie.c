@@ -11,7 +11,7 @@
 
 #define NUM_FRAMES 50
 #define START_SCALE 4.0
-#define SCALE_FACTOR 0.7
+#define SCALE_FACTOR 0.75
 
 // Print the command line options
 static void show_help (char *prog){
